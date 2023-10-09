@@ -1,2 +1,2 @@
 # freebobux
-Hello I am Ryan
+you need to solve the Riemann hypothesis math problem
